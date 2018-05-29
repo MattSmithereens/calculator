@@ -5,4 +5,4 @@ var volumeL = function(volumeG) {
 
 var volumeG = parseInt(prompt("Gallons"));
 
-alert(volumeL(volumeG));
+alert(volumeL(volumeG) + " liters!");
