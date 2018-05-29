@@ -1,5 +1,5 @@
 var degreesC = function(degreesF) {
-  return ((degreesF -32) / 1.8);
+  return ((degreesF -32) /  1.8);
 };
 
 
